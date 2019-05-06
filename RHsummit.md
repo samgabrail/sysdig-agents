@@ -17,3 +17,5 @@ URL: https://jenkins-ocp.sysdig-demo.zone/
 
 One of the pipelines fails the Sysdig Secure scan, so the image never gets uploaded to the internal OpenShift registry
 The other pipeline passes all the security scans and the image get into the internal OpenShift registry
+
+test
